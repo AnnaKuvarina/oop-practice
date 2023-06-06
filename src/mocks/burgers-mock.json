@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "img": "https://s7d1.scene7.com/is/image/mcdonalds/Best_HAMBURGER:3-column-desktop?resmode=sharp2",
+    "name": "Hamburger",
+    "price": 30,
+    "currency": "UAH",
+    "ingredients": "bun, beef cutlet, mustard, onion, pickled cucumbers, ketchup"
+  },
+  {
+    "id": 2,
+    "img": "https://s7d1.scene7.com/is/image/mcdonalds/Best_CHEESEBURGER:3-column-desktop?resmode=sharp2",
+    "name": "Cheeseburger",
+    "price": 35,
+    "currency": "UAH",
+    "ingredients": "bun, beef cutlet, Cheddar melted cheese, pickled cucumbers, onion, ketchup, mustard"
+  },
+  {
+    "id": 3,
+    "name": "Chicken burger",
+    "img": "https://s7d1.scene7.com/is/image/mcdonalds/Best_McCHICKEN:3-column-desktop?resmode=sharp2",
+    "price": 35,
+    "currency": "UAH",
+    "ingredients": "bun, chicken cutlet, iceberg salad, cream sauce"
+  },
+  {
+    "id": 4,
+    "name": "Filet-o-Fish",
+    "img": "https://s7d1.scene7.com/is/image/mcdonalds/Best_FILE-O-FISH:3-column-desktop?resmode=sharp2",
+    "price": 40,
+    "currency": "UAH",
+    "ingredients": "bun, breaded fish fillet, Tartar sauce, Cheddar melted cheese"
+  }
+]
